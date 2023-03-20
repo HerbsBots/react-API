@@ -1,0 +1,21 @@
+.list 
+{
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+  margin: 5px;
+  margin-left: 30%;
+  text-align: center;
+}
+
+.container 
+{
+  background-color: rgba(128, 0, 0, 0.55);
+  border: 10px solid #ddd;
+  padding: 15px;
+}
+
+.title 
+{
+  text-align: center;
+}
